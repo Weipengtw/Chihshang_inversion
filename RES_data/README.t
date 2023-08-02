@@ -7,5 +7,5 @@ format : lon, lat, depth, Ml, time(year)
 RES_used : RES catalog used in this study, the catalog of RES_info
 format : lon, lat, depth, Ml, time(year)
 
-for more detial information about the RES identification, please see
+for more detial information about the RES identification and RES catalog in this study, please see
 Chen, Y., K. H. Chen, J. Hu, and J. Lee (2020). Probing the Variation in Aseismic Slip Behavior Around an Active Suture Zone: Observations of Repeating Earthquakes in Eastern Taiwan, J. Geophys. Res. Solid Earth 125, no. 5, doi: 10.1029/2019JB018561.
